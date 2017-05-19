@@ -3,10 +3,15 @@
 package com.practicas.ede;
 
 // ¿Qué puede hacer esta Clase?
+
+// Tiene metodos y estos metodods hacen diferentes funciones como convertir un String a ASCII o Binario a ASCII
+
 public class BinString {
 	public BinString(){}
 
 	// ¿Qué hace este método?
+	
+	// Realiza los metodos sumar y aBinario
 	
 	public String convertir(String s){
 		return aBinario(sumar(s));
